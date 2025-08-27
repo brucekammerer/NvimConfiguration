@@ -14,7 +14,7 @@ return {
           additional_vim_regex_highlighting = false,
         },
         indent = {
-          enable = True,
+          enable = true,
         },
       })
     end
