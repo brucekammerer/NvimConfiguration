@@ -7,10 +7,5 @@ return {
     config = function()
       vim.cmd([[colorscheme github_light]])
     end
-  },
-  {
-    'windwp/nvim-autopairs',
-    event = "InsertEnter",
-    config = true
   }
 }
